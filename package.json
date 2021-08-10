@@ -19,5 +19,8 @@
 	"bugs": {
 		"url": "https://github.com/icorbrey/mocktokit/issues"
 	},
-	"homepage": "https://github.com/icorbrey/mocktokit#readme"
+	"homepage": "https://github.com/icorbrey/mocktokit#readme",
+	"devDependencies": {
+		"typescript": "^4.3.5"
+	}
 }
